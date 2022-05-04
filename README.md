@@ -1,7 +1,7 @@
 ## calcu-LUA-dora 📌
 
 ## O projeto 📁
-O ruim de decorar formular é que sempre em alguma hora vai bater aquele branco...
+O ruim de decorar formulas é que sempre em alguma momento vai bater aquele branco...
 
 Com a Calcu(LUA)dora você não precisa passar por esse sufoco. Tenha em suas mãos de forma simples e rápida as respostas para todos os cálculos do círculo.
 Te mostramos de forma interativa onde se encontra cada região que você deseja calcular e ela suporta valores decimais.
