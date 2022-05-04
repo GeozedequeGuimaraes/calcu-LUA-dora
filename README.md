@@ -21,7 +21,7 @@ Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com a l
 
 </div>
 
-## Como utiliza?
+## Como utiliza? 🛠
 - Baixe o projeto atual
 - Abra no xcode 
 - Selecione o símbolo de "play" no xcode
