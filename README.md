@@ -1,5 +1,13 @@
 ## calcu-LUA-dora 📌
 
+<div align = "center">
+ 
+  Tela Inicial | Escolha da entrada | Adiconando o valor
+:-------------------------:|:-------------------------:|:-------------------------:
+<img alt="lua6" src="https://user-images.githubusercontent.com/74778769/166748455-f9ec7347-6f9b-43e6-94e4-1407b42e34f3.png" height="400">|<img alt="lua4" src="https://user-images.githubusercontent.com/74778769/166773829-edee3dd0-35cd-407a-88ec-f22a7624c8ef.png" width="220" height="400"> | <img alt="lua5" src="https://user-images.githubusercontent.com/74778769/166800245-33f8a25e-6025-4f63-94f3-8f5e94e73fb0.png" width="220" height="400">
+
+</div>
+
 ## O projeto 📁
 O ruim de decorar formulas é que sempre em alguma momento vai bater aquele branco...
 
@@ -11,15 +19,6 @@ Neste projeto utilizei o UIKit na linguagem Swift.
 
 Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com a linguagem e com o que adquirir de conheciemnto. Existe alguns pontos como autolayout, e aspectos visuais que precisam ser trabalhados tornando o app mais interessante.
 
-## Imagens 📸  
-
-<div align = "center">
- 
-  Tela Inicial | Escolha da entrada | Adiconando o valor
-:-------------------------:|:-------------------------:|:-------------------------:
-<img alt="lua6" src="https://user-images.githubusercontent.com/74778769/166748455-f9ec7347-6f9b-43e6-94e4-1407b42e34f3.png" height="400">|<img alt="lua4" src="https://user-images.githubusercontent.com/74778769/166773829-edee3dd0-35cd-407a-88ec-f22a7624c8ef.png" width="220" height="400"> | <img alt="lua5" src="https://user-images.githubusercontent.com/74778769/166800245-33f8a25e-6025-4f63-94f3-8f5e94e73fb0.png" width="220" height="400">
-
-</div>
 
 ## Como utiliza? 🛠
 - Baixe o projeto atual
