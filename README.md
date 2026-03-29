@@ -1,26 +1,68 @@
-## calcu-LUA-dora 📌
+<div align="center">
 
-<div align = "center">
- 
-  Tela Inicial | Escolha da entrada | Adiconando o valor
-:-------------------------:|:-------------------------:|:-------------------------:
-<img alt="lua6" src="https://user-images.githubusercontent.com/74778769/166748455-f9ec7347-6f9b-43e6-94e4-1407b42e34f3.png" height="400">|<img alt="lua4" src="https://user-images.githubusercontent.com/74778769/166773829-edee3dd0-35cd-407a-88ec-f22a7624c8ef.png" width="220" height="400"> | <img alt="lua5" src="https://user-images.githubusercontent.com/74778769/166800245-33f8a25e-6025-4f63-94f3-8f5e94e73fb0.png" width="220" height="400">
+# calcu-LUA-dora
+
+### Calculadora iOS com tema lunar para cálculos de círculo
+
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![UIKit](https://img.shields.io/badge/UIKit-147EFB?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode)
 
 </div>
 
-## O projeto 📁
-O ruim de decorar formulas é que sempre em alguma momento vai bater aquele branco...
+---
 
-Com a Calcu(LUA)dora você não precisa passar por esse sufoco. Tenha em suas mãos de forma simples e rápida as respostas para todos os cálculos do círculo.
-Te mostramos de forma interativa onde se encontra cada região que você deseja calcular e ela suporta valores decimais.
+## Sobre o Projeto
 
-## Desenvolvimento👨🏽‍💻 
-Neste projeto utilizei o UIKit na linguagem Swift. 
+**calcu-LUA-dora** é um app iOS desenvolvido durante a Apple Developer Academy que resolve cálculos de círculo de forma simples e interativa. Chega de decorar fórmulas e passar pelo branco na hora H — basta escolher a grandeza que deseja calcular, informar os valores conhecidos e o app entrega o resultado na hora, com suporte a valores decimais.
 
-Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com a linguagem e com o que adquirir de conheciemnto. Existe alguns pontos como autolayout, e aspectos visuais que precisam ser trabalhados tornando o app mais interessante.
+### Tela Inicial
 
+| Tela Inicial | Escolha da entrada | Adicionando o valor |
+|:---:|:---:|:---:|
+| <img alt="Tela Inicial" src="https://user-images.githubusercontent.com/74778769/166748455-f9ec7347-6f9b-43e6-94e4-1407b42e34f3.png" height="400"> | <img alt="Escolha da entrada" src="https://user-images.githubusercontent.com/74778769/166773829-edee3dd0-35cd-407a-88ec-f22a7624c8ef.png" height="400"> | <img alt="Adicionando o valor" src="https://user-images.githubusercontent.com/74778769/166800245-33f8a25e-6025-4f63-94f3-8f5e94e73fb0.png" height="400"> |
 
-## Como utiliza? 🛠
-- Baixe o projeto atual
-- Abra no xcode 
-- Selecione o símbolo de "play" no xcode
+---
+
+## Funcionalidades
+
+- Cálculo interativo de grandezas do círculo: circunferência, diâmetro, área e raio
+- Seleção visual da grandeza desejada com indicação de cada região
+- Suporte a valores decimais
+- Interface com tema lunar, desenvolvida em UIKit
+
+---
+
+## Tecnologias
+
+- **Swift** — linguagem de programação nativa para iOS
+- **UIKit** — framework para construção da interface
+- **Xcode** — ambiente de desenvolvimento Apple
+
+---
+
+## Como Executar
+
+1. Clone este repositório
+```bash
+git clone https://github.com/GeozedequeGuimaraes/calcu-LUA-dora.git
+```
+
+2. Abra o arquivo `.xcodeproj` no Xcode
+
+3. Selecione um simulador ou dispositivo e clique em **Run** (▶)
+
+---
+
+## Autor
+
+<div align="center">
+
+**Geozedeque Guimarães**
+
+Estudante de Ciência da Computação — CIn-UFPE
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+
+</div>
