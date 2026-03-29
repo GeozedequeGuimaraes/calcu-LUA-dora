@@ -31,37 +31,37 @@
 ## Funcionalidades
 
 - Cálculo interativo de grandezas do círculo: circunferência, diâmetro, área e raio
-- - Seleção visual da grandeza desejada com indicação de cada região
-  - - Suporte a valores decimais
-    - - Interface com tema lunar, desenvolvida em UIKit
-     
-      - ---
+- Seleção visual da grandeza desejada com indicação de cada região
+- Suporte a valores decimais
+- Interface com tema lunar, desenvolvida em UIKit
 
-      ## Tecnologias
+---
 
-      - **Swift** — linguagem de programação nativa para iOS
-      - - **UIKit** — framework para construção da interface
-        - - **Xcode** — ambiente de desenvolvimento Apple
-         
-          - ---
+## Tecnologias
 
-          ## Como Executar
+- **Swift** — linguagem de programação nativa para iOS
+- **UIKit** — framework para construção da interface
+- **Xcode** — ambiente de desenvolvimento Apple
 
-          1. Clone este repositório
-          2. ```bash
-             git clone https://github.com/GeozedequeGuimaraes/calcu-LUA-dora.git
-             ```
-             2. Abra o arquivo `.xcodeproj` no Xcode
-             3. 3. Selecione um simulador ou dispositivo e clique em **Run**
-               
-                4. ---
-               
-                5. ## Autor
-               
-                6. <div align="center">
+---
 
-                **Geozedeque Guimarães**
+## Como Executar
 
-                Estudante de Ciência da Computação — CIn-UFPE
+1. Clone este repositório: `git clone https://github.com/GeozedequeGuimaraes/calcu-LUA-dora.git`
+2. Abra o arquivo `.xcodeproj` no **Xcode**
+3. Selecione um simulador ou dispositivo e clique em **Run**
 
-                [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=git
+---
+
+## Autor
+
+<div align="center">
+
+**Geozedeque Guimarães**
+
+Estudante de Ciência da Computação — CIn-UFPE
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+
+</div>
